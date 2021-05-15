@@ -1,4 +1,5 @@
 # admission
+An app that predicts whether or not a student will get admitted into a college in the US.
 
 ## Setup
 
